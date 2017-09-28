@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<catalog>
+	<book id="bk101">
+		<author>Jose de pueblo</author>
+		<title>Hola mundo</title>
+		<genre>tutorial</genre>
+		<price>10.00</price>
+		<publish>07-05-2004</publish>
+		<descripcion>Un tutorial de como escribir hola mundo con un simple lenguaje</descripcion>
+	</book>
+</catalog>
